@@ -15,9 +15,8 @@
 ↗️ This is a <sup>superscript</sup> text
 
 
-* [PDF Example](https://github.com/BU-IE-423/fall-23-mugesenay/blob/main/IE423_Fall23_tutorial.pdf): PDF Example 1
 
-* [PDF Example 2](IE423_Fall23_tutorial.pdf): PDF Example 2
+* [PDF Example 2](IE423_Fall23_tutorial.pdf): PDF Example 
   
 *[Project Part 1 - html](IE423 - Project Part 1 (1) (1) (1) (1).html)
 
