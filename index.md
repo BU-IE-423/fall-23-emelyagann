@@ -21,6 +21,10 @@
 *[Project Part 1 - html](IE423 - Project Part 1 (1) (1) (1) (1).html)
 
 *[Project Part 1 .py:](IE423 - Project Part 1 (1) (1).py)
+
+*[Project Part 2 - html](IE423 - Project Part 2.html)
+
+
 You can use the [editor on GitHub](https://github.com/BU-IE-423/fall-23-ilaydacelenkk/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
