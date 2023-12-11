@@ -23,6 +23,9 @@
 *[Project Part 1 .py:](IE423 - Project Part 1 (1) (1).py)
 
 *[Project Part 2 - html](IE423 - Project Part 2.html)
+*[Project Part 2 .ipynb:](IE423 - Project Part 2.ipynb)
+
+
 
 
 You can use the [editor on GitHub](https://github.com/BU-IE-423/fall-23-ilaydacelenkk/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
