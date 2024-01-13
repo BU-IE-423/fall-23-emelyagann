@@ -26,6 +26,12 @@
 
 *[Project Part 2 .ipynb:](IE423 - Project Part 2.ipynb)
 
+*[423 part 3 (1) (1).pdf](423 part 3 (1) (1).pdf)
+
+*[IE 423 Project Part - 3.html](IE 423 Project Part - 3.html)
+
+*[IE 423 Project Part - 3.ipynb](IE 423 Project Part - 3.ipynb)
+
 
 
 
